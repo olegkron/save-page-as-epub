@@ -3,3 +3,4 @@ package-lock.json
 yarn.lock
 output/*
 node_modules
+.DS_Store
