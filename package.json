@@ -1,0 +1,14 @@
+{
+  "name": "save-page-as-epub",
+  "version": "0.1.1",
+  "description": "Save a web page as an EPUB file",
+  "main": "main.js",
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "epub-gen": "^0.1.0",
+    "jsdom": "^24.0.0"
+  },
+  "bin": {
+    "savePageAsEpub": "./main.js"
+  }
+}
